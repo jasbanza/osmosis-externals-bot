@@ -1,0 +1,29 @@
+{
+  "name": "osmosis-externals-bot",
+  "version": "1.0.0",
+  "description": "Alerting bot for changes to externals",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasbanza/osmosis-externals-bot.git"
+  },
+  "keywords": [
+    "osmosis",
+    "bot",
+    "incentives"
+  ],
+  "author": "jasbanza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasbanza/osmosis-externals-bot/issues"
+  },
+  "homepage": "https://github.com/jasbanza/osmosis-externals-bot#readme",
+  "dependencies": {
+    "js-console-log-colors": "^1.1.0",
+    "node-fetch": "^2.6.8"
+  }
+}
